@@ -3,7 +3,6 @@ import numpy as np
 #---------------Take Data from Website and create a sudoku grid--------
 from bs4 import BeautifulSoup
 import requests
-import re
 #Sudoku Website
 url = 'https://www.websudoku.com/'
 
